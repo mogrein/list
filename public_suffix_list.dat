@@ -6789,7 +6789,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-16T15:22:08Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-09-06T15:12:50Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -9399,7 +9399,7 @@ nowruz
 // https://www.iana.org/domains/root/db/nowtv.html
 nowtv
 
-// nra : NRA Holdings Company, INC.
+// nra : National Rifle Association of America
 // https://www.iana.org/domains/root/db/nra.html
 nra
 
@@ -9758,10 +9758,6 @@ recipes
 // red : Identity Digital Domains Limited
 // https://www.iana.org/domains/root/db/red.html
 red
-
-// redstone : Redstone Haute Couture Co., Ltd.
-// https://www.iana.org/domains/root/db/redstone.html
-redstone
 
 // redumbrella : Travelers TLD, LLC
 // https://www.iana.org/domains/root/db/redumbrella.html
