@@ -6789,7 +6789,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-07-16T15:22:08Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-01-21T15:27:19Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -7902,10 +7902,6 @@ dtv
 // dubai : Dubai Smart Government Department
 // https://www.iana.org/domains/root/db/dubai.html
 dubai
-
-// dunlop : The Goodyear Tire & Rubber Company
-// https://www.iana.org/domains/root/db/dunlop.html
-dunlop
 
 // dupont : DuPont Specialty Products USA, LLC
 // https://www.iana.org/domains/root/db/dupont.html
@@ -9399,7 +9395,7 @@ nowruz
 // https://www.iana.org/domains/root/db/nowtv.html
 nowtv
 
-// nra : NRA Holdings Company, INC.
+// nra : National Rifle Association of America
 // https://www.iana.org/domains/root/db/nra.html
 nra
 
@@ -9758,10 +9754,6 @@ recipes
 // red : Identity Digital Domains Limited
 // https://www.iana.org/domains/root/db/red.html
 red
-
-// redstone : Redstone Haute Couture Co., Ltd.
-// https://www.iana.org/domains/root/db/redstone.html
-redstone
 
 // redumbrella : Travelers TLD, LLC
 // https://www.iana.org/domains/root/db/redumbrella.html
@@ -10175,7 +10167,7 @@ solutions
 // https://www.iana.org/domains/root/db/song.html
 song
 
-// sony : Sony Corporation
+// sony : Sony Group Corporation
 // https://www.iana.org/domains/root/db/sony.html
 sony
 
@@ -10439,7 +10431,7 @@ tokyo
 // https://www.iana.org/domains/root/db/tools.html
 tools
 
-// top : .TOP Registry
+// top : Hong Kong Zhongze International Limited
 // https://www.iana.org/domains/root/db/top.html
 top
 
@@ -10691,7 +10683,7 @@ watches
 // https://www.iana.org/domains/root/db/weather.html
 weather
 
-// weatherchannel : International Business Machines Corporation
+// weatherchannel : The Weather Company, LLC
 // https://www.iana.org/domains/root/db/weatherchannel.html
 weatherchannel
 
@@ -10963,7 +10955,7 @@ xin
 // https://www.iana.org/domains/root/db/xn--fhbei.html
 كوم
 
-// xn--fiq228c5hs : TLD REGISTRY LIMITED OY
+// xn--fiq228c5hs : Beijing TLD Registry Technology Limited
 // https://www.iana.org/domains/root/db/xn--fiq228c5hs.html
 中文网
 
