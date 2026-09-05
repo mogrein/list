@@ -6819,7 +6819,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-04-30T16:18:08Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-09-05T17:04:23Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -8885,7 +8885,7 @@ kred
 // https://www.iana.org/domains/root/db/kuokgroup.html
 kuokgroup
 
-// kyoto : Academic Institution: Kyoto Jyoho Gakuen
+// kyoto : Academic Institution: The University of Informatics
 // https://www.iana.org/domains/root/db/kyoto.html
 kyoto
 
@@ -10713,6 +10713,10 @@ weather
 // https://www.iana.org/domains/root/db/weatherchannel.html
 weatherchannel
 
+// web : VeriSign, Inc.
+// https://www.iana.org/domains/root/db/web.html
+web
+
 // webcam : dot Webcam Limited
 // https://www.iana.org/domains/root/db/webcam.html
 webcam
@@ -10873,7 +10877,7 @@ xin
 // https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html
 香格里拉
 
-// xn--5tzm5g : Global Website TLD Asia Limited
+// xn--5tzm5g : Jolly Host, LLC
 // https://www.iana.org/domains/root/db/xn--5tzm5g.html
 网站
 
